@@ -30,6 +30,6 @@ while True:
 
     else:
         print("Opção inválida")
-print("Inté")
+print("Obrigado")
 
 
